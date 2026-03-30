@@ -1,4 +1,3 @@
-import { motion } from 'framer-motion';
 import { Instagram, Mail, ShieldCheck, MessageCircle } from 'lucide-react';
 import logo from '../assets/images/logo.png';
 
